@@ -1,1 +1,1 @@
-# QtImageServiceAWS
+# QtImageService
